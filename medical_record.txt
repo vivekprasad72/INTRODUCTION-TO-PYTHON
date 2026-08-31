@@ -1,0 +1,3 @@
+Patient Name: Rohul
+Disease: Fever
+Medicine: Paracetamol
