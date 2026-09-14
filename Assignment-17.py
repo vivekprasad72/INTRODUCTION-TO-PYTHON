@@ -25,7 +25,7 @@ print(det_B)
 
 # 3. A.transpose of A
 A_bar = np.transpose(A)
-result = np.dot(A, A_bar)
+results = np.dot(A, A_bar)
 
 print("\nA . A-bar:")
-print(result)
+print(results)
